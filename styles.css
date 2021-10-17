@@ -38,6 +38,8 @@ img{
  	width: 216px;
  	height: 68px;
  	background-color:#333333 ;
+ 	float: left;
+
  }
  .button a{
  	color: #fff;

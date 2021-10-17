@@ -1,7 +1,0 @@
-/***:: Styles for 404 Page not found::***/
-
-/**************:: TAG SELECTORS::********/
-
-body{
-	background:#333333;
-}
